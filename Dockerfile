@@ -1,2 +1,2 @@
 From nginx
-RUN echo "Hello! docker" > /usr/share/nginx/html/index.html
+RUN echo "Hello! This is nginx server" > /usr/share/nginx/html/index.html
